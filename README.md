@@ -3,7 +3,7 @@
 ## This project is a WIP
 
 // TODO:  
-// - tests. 
+// - tests    
 // - second species  
 // - third species   
 // - fourth species  
@@ -18,8 +18,7 @@
 // - methods that allow you to set musical constraints   
 // - methods that let you turn on and off additional rules  
 // - a play method  
-// - the play method will execute a large, high level flow for constructing the melodies.  Based on the methods called  
-//   altering the constants and the rules (which set internal properties) the flow will include or exclude certain calls   
+// - the play method will execute a large, high level flow for constructing the melodies.  Based on the methods called altering the constants and the rules (which set internal properties) the flow will include or exclude certain calls
 
 
 // GOALS:   
