@@ -24,9 +24,9 @@
 // GOALS:
 // - Rules Options:
     // - if leap, acceptable leap size
-	// - if stepwise, prevent too many consecutive stepwise
+    // - if stepwise, prevent too many consecutive stepwise
     // - if previous was a leap, use probability chooser to move contrary stepwise
-	// - if previous oblique, prevent two oblique in a row
+    // - if previous oblique, prevent two oblique in a row
     // - 4th are consonant
     // - no tritones
     // - which intervals are consonant
