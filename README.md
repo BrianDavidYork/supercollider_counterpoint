@@ -4,18 +4,12 @@
 
 // TODO:
 // - tests
-
 // - second species
-
 // - third species
-
 // - fourth species
-
 // - florid
-
 // - bass line for each species
-
-// - tuse class format
+// - use class format
 
 
 
