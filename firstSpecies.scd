@@ -164,7 +164,13 @@
 };
 
 ~getcounterMelodyTone = {
-	arg melodyTone, melodyToneNdx;
+	arg melodyTone, melodyToneNdx, strongBeat;
+
+	// if species == 1, continue as written
+	// if species == 2, we need to know if we are on strong or weak beat
+	//                  also, tracking par. 5ths and 8ths needs counterMelTone Ndx - 1, 2, or 4.
+
+	// need prev. counterMelodyTone and prev. counterMelodyStrongBeatTone ??
 
 	var previousMelodyTone = ~melodyTones[melodyToneNdx - 1];
 	var previousCounterMelodyTone = ~counterMelodyTones[melodyToneNdx - 1];
